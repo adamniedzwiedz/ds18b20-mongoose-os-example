@@ -1,4 +1,4 @@
-# Mongoose OS the PMS7003 dust sensor example (C/C++)
+# Mongoose OS the DS18B20 dust sensor example (C/C++)
 
 For the details look at the [library](https://github.com/adamniedzwiedz/ds18b20-mongoose-os-lib)
 
